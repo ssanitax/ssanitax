@@ -65,6 +65,6 @@ Y sí… probablemente esté tomando café mientras lo hago ☕😄
 ---
 
 <p align="center">
-  <em>“No hay error que no te enseñe algo nuevo.”</em> 🌻  
+  <em>“Vamos a picar código”</em> 🌻  
 </p>
 
