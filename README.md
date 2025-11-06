@@ -3,36 +3,33 @@
   <img width="2080" height="600" alt="Diseño sin título" src="https://github.com/user-attachments/assets/bf508844-4545-4e18-868d-9db505fe9f26" />
 </p>
 
-# 👋 Hola!, soy Ana Sánchez 
-
-💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🎨 Con background en **Marketing Digital y SEO**  
-📍 Valencia, España  
+<h1 align="center">⟡⚙️ 𝔸𝕟𝕒 𝕊á𝕟𝕔𝕙𝕖𝕫 ⚙️⟡</h1>
+<h3 align="center">⌬ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) ⌬</h3>
 
 ---
 
-## 🌈 Sobre mí  
+### ⚡ 𝕊𝕠𝕓𝕣𝕖 𝕞í  
 Soy una persona **creativa, curiosa y resolutiva**, con ganas de seguir creciendo en el mundo tech.  
-Antes de programar, trabajé en **marketing y posicionamiento SEO**, así que tengo un perfil que combina la **estrategia digital** con la **lógica del desarrollo**.  
+Antes de programar, trabajé en **marketing y posicionamiento SEO**, así que combino la **estrategia digital** con la **lógica del desarrollo**.  
 
 Me gusta aprender creando — ya sea una app, una web o un diseño.  
-Y sí… probablemente esté tomando café mientras lo hago ☕😄  
+Y sí… probablemente esté tomando café mientras lo hago ☕  
 
-- 🎓 Estudiante de **DAM** (CEAC)  
-- 📊 Formación previa en **Marketing y Publicidad** (IES Ángel Ganivet)  
-- 🔍 Experiencia en **WordPress, SEMrush, SEO y copywriting**  
-- 🚀 Interesada en el **desarrollo web y móvil** y en **mejorar la experiencia de usuario (UX)**  
+> 🎓 Estudiante de **DAM** (CEAC)  
+> ⚙️ Formación previa en **Marketing y Publicidad** (IES Ángel Ganivet)  
+> 🧩 Experiencia en **WordPress, SEMrush, SEO y copywriting**  
+> 🚀 Interesada en el **desarrollo web y móvil** y en **mejorar la experiencia de usuario (UX)**  
 
 ---
 
-## 🛠️ Tecnologías y herramientas  
+### ⚔️ 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘í𝕒𝕤 𝕪 𝕙𝕖𝕣𝕣𝕒𝕞𝕚𝕖𝕟𝕥𝕒𝕤  
 
-### 💻 Desarrollo
+#### 💻 𝔻𝕖𝕤𝕒𝕣𝕣𝕠𝕝𝕝𝕠
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Marketing digital
+#### 🕸️ 𝕄𝕒𝕣𝕜𝕖𝕥𝕚𝕟𝕘 𝕕𝕚𝕘𝕚𝕥𝕒𝕝
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![SEMrush](https://img.shields.io/badge/-SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
 ![Google%20Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -40,15 +37,15 @@ Y sí… probablemente esté tomando café mientras lo hago ☕😄
 
 ---
 
-## 🎨 Mis valores como profesional  
-💡 **Creatividad** – encontrar soluciones fuera de lo común  
-🧩 **Adaptabilidad** – aprender nuevas herramientas con rapidez  
+### ⚙️ 𝕍𝕒𝕝𝕠𝕣𝕖𝕤 𝕡𝕣𝕠𝕗𝕖𝕤𝕚𝕠𝕟𝕒𝕝𝕖𝕤  
+🧠 **Creatividad** – soluciones fuera de lo común  
+⚔️ **Adaptabilidad** – aprender nuevas herramientas con rapidez  
 🤝 **Trabajo en equipo** – me encanta compartir ideas y construir juntas/os  
 🚀 **Actitud positiva** – siempre buscando mejorar un poco más  
 
 ---
 
-## 📈 Mis estadísticas  
+### 🩶 𝕄𝕚𝕤 𝕖𝕤𝕥𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ssanitax&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanitax&layout=compact&theme=tokyonight" height="150"/>
@@ -56,13 +53,12 @@ Y sí… probablemente esté tomando café mientras lo hago ☕😄
 
 ---
 
-## 📫 ¡Conectemos!  
+### ☄️ 𝕮𝖔𝖓𝖙𝖆𝖈𝖙𝖆  
 📧 **ssanitax@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ana-s%C3%A1nchez-su%C3%A1rez-348660240/)  
 
 ---
 
 <p align="center">
-  <em>“Vamos a picar código”</em> 🌻  
+  <em>⟡ “Vamos a picar código” ⟡</em> ⚙️  
 </p>
-
