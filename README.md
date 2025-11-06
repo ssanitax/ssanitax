@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://i.imgur.com/0vFmQ0V.png" width="100%" alt="Banner colorido estilo Spinelli" />
+  <img width="2080" height="600" alt="Diseño sin título" src="https://github.com/user-attachments/assets/bf508844-4545-4e18-868d-9db505fe9f26" />
 </p>
 
 # 👋 Hola!, soy Ana Sánchez 
