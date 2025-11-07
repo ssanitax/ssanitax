@@ -27,6 +27,8 @@ Y sí… probablemente esté tomando café mientras lo hago ☕
 #### 💻 𝔻𝕖𝕤𝕒𝕣𝕣𝕠𝕝𝕝𝕠
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+(https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge) 
 
 #### 🕸️ 𝕄𝕒𝕣𝕜𝕖𝕥𝕚𝕟𝕘 𝕕𝕚𝕘𝕚𝕥𝕒𝕝
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
