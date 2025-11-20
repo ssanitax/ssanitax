@@ -31,6 +31,7 @@ Y sí… probablemente esté tomando café mientras lo hago ☕
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 
 #### 🕸️ 𝕄𝕒𝕣𝕜𝕖𝕥𝕚𝕟𝕘 𝕕𝕚𝕘𝕚𝕥𝕒𝕝
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
