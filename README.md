@@ -50,8 +50,10 @@ Y sí… probablemente esté tomando café mientras lo hago ☕
 ---
 
 ### 🩶 𝕄𝕚𝕤 𝕖𝕤𝕥𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanitax&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssanitax&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssanitax&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssanitax&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
